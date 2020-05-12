@@ -118,3 +118,8 @@
 >```
 >touch playbook.yml
 >```
+
+>```
+>ansible-vault create group_vars/all/pass.yml
+>```
+
