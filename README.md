@@ -123,3 +123,14 @@
 >ansible-vault create group_vars/all/pass.yml
 >```
 
+>```
+>ansible-vault edit group_vars/all/pass.yml
+>```
+
+>```
+>nano playbook.yml
+>```
+>
+>>```
+>>
+>>```
