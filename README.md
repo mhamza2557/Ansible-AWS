@@ -90,3 +90,20 @@
 >```
 >cd ;
 >```
+
+>```
+>ls
+>```
+
+>```
+>cd ansible_folder
+>```
+
+>```
+>pip install ansible boto boto3
+>```
+
+>```
+>ssh-keygen -t rsa -b 4096 -f ~/.ssh/hamza_aws
+>```
+
