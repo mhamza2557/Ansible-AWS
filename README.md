@@ -36,3 +36,17 @@
 >```
 >cat ~/.bashrc
 >```
+
+>```
+>nano ~/.bash_profile
+>```
+
+>```
+> >>> conda initialize >>>
+>     copy content
+> <<< conda initialize <<<
+>```
+
+>```
+>source ~/.bash_profile
+>```
