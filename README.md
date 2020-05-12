@@ -21,4 +21,18 @@
 >bash ./Anaconda3-2020.02-Linux-x86_64.sh
 >```
 
+>```
+>yes
+>```
 
+>```
+>Enter
+>```
+
+>```
+>yes
+>```
+
+>```
+>cat ~/.bashrc
+>```
