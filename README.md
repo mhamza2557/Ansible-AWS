@@ -63,3 +63,30 @@
 >conda create -n py3ans python=3.6
 >```
 
+>```
+>y
+>```
+
+>```
+>conda activate py3ans
+>```
+
+>```
+>python --version
+>```
+
+>```
+>pip --version
+>```
+
+>```
+>pip install ansible
+>```
+
+>```
+>ansible --version
+>```
+
+>```
+>cd ;
+>```
