@@ -50,3 +50,16 @@
 >```
 >source ~/.bash_profile
 >```
+
+>```
+>python --version
+>```
+
+>```
+>conda env list
+>```
+
+>```
+>conda create -n py3ans python=3.6
+>```
+
