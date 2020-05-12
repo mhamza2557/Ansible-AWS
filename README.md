@@ -107,6 +107,10 @@
 >```
 
 >```
+>mkdir ansible_folder
+>```
+
+>```
 >cd ansible_folder
 >```
 
