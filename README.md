@@ -107,3 +107,14 @@
 >ssh-keygen -t rsa -b 4096 -f ~/.ssh/hamza_aws
 >```
 
+>```
+>mkdir -p aws-ansible/group_vars/all/
+>```
+
+>```
+>cd aws-ansible
+>```
+
+>```
+>touch playbook.yml
+>```
