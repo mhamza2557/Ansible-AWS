@@ -213,3 +213,14 @@
 >>      tags: ['never', 'create_ec2']
 >>```
 
+>```
+>ansible-vault playbook.yml --ask-vault-pass
+>```
+
+>```
+>ansible-vault playbook.yml --ask-vault-pass --tags create_ec2
+>```
+
+>```
+>ssh -i ~/.ssh/hamza_aws ubuntu@<ip-address>
+>```
