@@ -151,8 +151,8 @@
 >>---
 >>
 >>- hosts: localhost
->>  connection: local
->>  gather_facts: False
+>> connection: local
+>> gather_facts: False
 >>
 >>  vars:
 >>    key_name: hamza_aws
